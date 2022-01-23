@@ -56,6 +56,11 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 ## Viewing Tableau
 The project can viewed on the Tableau public site at https://public.tableau.com/app/profile/tom.vossler/viz/Citibike_16337155421880/Story1
 
+### File Structure
 
-
+Images folder - Includes images used in readme file
+Resources folder - Includes the csv data files used for the analysis
+Citi_bike.ipynb file used for data cleaning and prep
+Citibike Analysis.md - A written analysis to accompany the dashboards.
+README.md - Summary information regarding the project.
 
